@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Sidi Zhao"
+description              : "A fourth-year doctoral student in the Dept. of Business Analytics & Information Systems at Auburn University. Her research leverages business analytics, machine learning, and social network analysis to examine how emerging technologies, such as blockchain, artificial intelligence, and social media, shape digital innovation strategies and generate economic value."
 repository               : "Sidi-Zhao/Sidi-Zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Sidi Zhao"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD candidate at Auburn University."
-  location         : "Auburn University, United States"
-  employer         :
+  location         : "United States"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0yrCEacAAAAJ"
   email            : "szz0067@auburn.edu"
