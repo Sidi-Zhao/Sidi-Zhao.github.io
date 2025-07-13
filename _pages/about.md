@@ -37,7 +37,7 @@ My research has received multiple recognitions. For instance, my AMCIS2024 proce
 # 📝 Teaching Interests 
 -	Courses: Business Analytics, Artificial Intelligence, Business Intelligence, Predictive Modeling, Machine Learning, Text Mining, Data Visualization, Database Management, Cybersecurity
 -	Tools: Python, Stata, SQL, SPSS, Tableau, R, SAS, Ucinet, Gephi, Mplus, JMP, and Excel.
--	
+
 # 📝 Publications 
 -	Guo, Y., Ayoun, B. & Zhao, S. (2025). Is someone listening to me? A topic modeling approach using guided LDA for exploring hospitality value proposition through online employee reviews. International Journal of Hospitality Management, 127, 104114.
 -	Xu, P., Hudnall, M., Zhao, S., Raja, U., Parton, J. & Lewis, D. (2022). Pandemic-Triggered Adoption of Telehealth in Underserved Communities: Descriptive Study of Pre- and Post-Shutdown Trends. Journal of Medical Internet Research, 24(7), e38602.
